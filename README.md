@@ -2,3 +2,6 @@ Develop an end-to-end algorithm from scratch to detect anomalies in a semi-super
 
 
 Download the data from datasetlink.md and place it in the Anomalydetection_v_0  folder. Ensure to preprocess the data before feeding it into the algorithm.
+
+
+test.py provides an example of how the package is used in general.
